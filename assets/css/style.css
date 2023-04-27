@@ -38,7 +38,7 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -103,3 +103,21 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+@media screen and (min-width: 768px) {
+    .previouswork {
+      flex: 0 0 50%;
+      max-width: 50%;
+    }
+  }
+   
+  @media screen and (min-width: 992px) {
+    .header {
+      width: 75%;
+    }
+  
+    .previouswork {
+      flex: 0 0 33.333%;
+      max-width: 33.333%;
+    }
+  }
