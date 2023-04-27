@@ -9,6 +9,6 @@ This is challeng was to create my own coding portfolio webpage. This involded ma
 You can open the webpage through opening the index.html file in your browser. Or click this link:
 <a href="https://mardyyy.github.io/CSS-Challenge-2/"> alt="Image of HTML Project"</a>
 
-## LicenseS
+## License
 
 Refer to the LICENSE in the repo.
