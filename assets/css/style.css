@@ -78,6 +78,11 @@ p {
     margin-left: 0px;
 } */
 
+.work-2 {
+    height: 100px;
+    width: 1500px;
+}
+
 .content {
     width: 75%;
     display: inline-block;
